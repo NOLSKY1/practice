@@ -1,2 +1,3 @@
 # practice Initialising the project 
-hi master
+hi Default
+
